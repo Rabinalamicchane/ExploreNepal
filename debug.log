@@ -1,0 +1,17 @@
+[1011/203331.286:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1011/231555.856:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1011/231555.903:ERROR:exception_snapshot_win.cc(100)] thread ID 1552 not found in process
+[1012/132052.559:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/140019.638:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/183741.405:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/092300.445:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/190841.279:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1014/212416.135:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1014/212416.135:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1014/212416.135:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1014/212416.650:ERROR:exception_snapshot_win.cc(100)] thread ID 4632 not found in process
+[1014/212416.650:ERROR:exception_snapshot_win.cc(100)] thread ID 8184 not found in process
+[1014/212416.650:ERROR:exception_snapshot_win.cc(100)] thread ID 14108 not found in process
+[1014/212416.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x778b1fe7c0 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1014/212416.697:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1014/212416.697:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
